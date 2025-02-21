@@ -1,7 +1,7 @@
  
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=600&size=30&pause=1000&color=F7A127&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Hi!+I+am+Ayraf+Raihan+%F0%9F%91%8B;I+am+a+passionate+AI+engineer%F0%9F%AB%B6;I+like+to+build+awesome+things+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=600&size=30&pause=1000&color=F7A127&center=true&vCenter=true&width=500&height=70&lines=Hi!+I+am+Ayraf+Raihan+%F0%9F%91%8B;I+am+a+passionate+AI+engineer%F0%9F%AB%B6;I+like+to+build+awesome+things+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
 
   <img src="https://streak-stats.demolab.com?user=ShiroYasha18&locale=en&mode=weekly&theme=vision-friendly-dark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShiroYasha18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
