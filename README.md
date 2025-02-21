@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&pause=1000&color=F7A127&width=435&lines=Hi!+I+am+Ayraf+Raihan+%F0%9F%91%8B;I+am+a+passionate+AI+engineer%F0%9F%AB%B6;I+like+to+build+awesome+things+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lexend&weight=600&pause=1000&color=F7A127&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Hi!+I+am+Ayraf+Raihan+%F0%9F%91%8B;I+am+a+passionate+AI+engineer%F0%9F%AB%B6;I+like+to+build+awesome+things+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ShiroYasha18&locale=en&mode=weekly&theme=vision-friendly-dark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
