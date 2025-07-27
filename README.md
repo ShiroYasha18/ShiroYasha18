@@ -8,8 +8,8 @@
 
 <br><br>
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ShiroYasha18&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+![ShiroYasha18's Stats](https://github-readme-stats.vercel.app/api?username=ShiroYasha18&theme=calm&show_icons=true&hide_border=false&count_private=true)
+
 
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShiroYasha18&layout=compact&theme=vision-friendly-dark&hide_border=true" height="170" alt="Top Languages" />
